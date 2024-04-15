@@ -1,0 +1,56 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: monospace
+}
+
+.avatar {
+    width: 140px;
+    
+ 
+    
+    
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ffc49b;
+    color: #220901;
+    border-top: 10px solid #ba181b;
+    border-bottom: 10px solid #e8e5da;
+    box-shadow: 6px 4px 2px 2px;
+}
+    
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+.card{
+    
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+
+/* so i managed to make some changes to my busines card and added a shadow but i couldnt figure out the hover effects nor the animations. but i at least i did the shadows which i am happy with :) */
